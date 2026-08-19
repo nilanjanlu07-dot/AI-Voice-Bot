@@ -47,18 +47,15 @@ For supported basic commands, VoiceBot can provide local responses without requi
 
 ### Application Screenshot
 
-
-https://github.com/user-attachments/assets/50452268-ba74-416c-8579-31412e310cb3
-
-<img width="1234" height="859" alt="Screenshot 2026-08-19 192523" src="https://github.com/user-attachments/assets/5ca9faae-a88b-43db-b7c5-5bcd28c5fb36" />
 <img width="1919" height="1019" alt="Screenshot 2026-08-19 192135" src="https://github.com/user-attachments/assets/fc9c4a25-3727-4e37-8ebb-f720b063c68c" />
 <img width="1919" height="983" alt="Screenshot 2026-08-19 192121" src="https://github.com/user-attachments/assets/37e0a5f7-eedb-48eb-a9b5-951d0a6de9ed" />
+<img width="1234" height="859" alt="Screenshot 2026-08-19 192523" src="https://github.com/user-attachments/assets/5ca9faae-a88b-43db-b7c5-5bcd28c5fb36" />
 
 
 
 ### Demo Video
 
-
+https://github.com/user-attachments/assets/50452268-ba74-416c-8579-31412e310cb3
 
 
 
