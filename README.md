@@ -1,10 +1,10 @@
-# VoiceBot 🤖🎙️
+# VoiceBot
 
 A Windows-friendly Python voice assistant and chatbot that uses **Google Gemini** for AI-powered responses and **Tkinter** for a simple desktop chat and voice interface.
 
 VoiceBot can accept questions through voice or text, generate responses using Gemini, display the conversation in a chat-style interface, and speak the response back to the user.
 
-## ✨ Features
+## Features
 
 * 🧠 Gemini-powered AI responses with conversational context
 * 🎤 Voice input using speech recognition
@@ -14,7 +14,7 @@ VoiceBot can accept questions through voice or text, generate responses using Ge
 * 👤 Assistant identity and creator information built into the application
 * 📴 Basic offline functionality when Gemini is unavailable
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Python**
 * **Tkinter** — Desktop GUI
@@ -23,7 +23,7 @@ VoiceBot can accept questions through voice or text, generate responses using Ge
 * **pyttsx3** — Text-to-speech
 * **Environment Variables** — Secure API key management
 
-## 🔄 How It Works
+## How It Works
 
 ```text
 🎤 Voice / Text Input
@@ -120,7 +120,7 @@ To keep the key available in future PowerShell sessions:
 .\.venv\Scripts\python.exe voicebot.py
 ```
 
-## 🔐 Security
+## Security
 
 **Never commit or upload your real Gemini API key to GitHub.**
 
@@ -128,7 +128,7 @@ Keep your API key in an environment variable or another local configuration meth
 
 The repository includes `.env.example` as a reference for configuring the required environment variable without exposing the real credential.
 
-## 💡 Example Prompts
+## Example Prompts
 
 Try asking VoiceBot:
 
@@ -138,7 +138,7 @@ Try asking VoiceBot:
 * `"Tell me about machine learning"`
 * `"Help"`
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Some possible improvements for future versions include:
 
@@ -150,7 +150,7 @@ Some possible improvements for future versions include:
 * 🌍 Multi-language voice support
 * ⚙️ Customizable voice and assistant settings
 
-## 👨‍💻 Author
+## Author
 
 **Nilanjan Das**
 
@@ -158,6 +158,6 @@ BCA student interested in **Artificial Intelligence, Machine Learning, software 
 
 ---
 
-⭐ If you find this project interesting, feel free to explore the repository and try it yourself.
+If you find this project interesting, feel free to explore the repository and try it yourself.
 
 **Built with Python, Tkinter, and Google Gemini.**
